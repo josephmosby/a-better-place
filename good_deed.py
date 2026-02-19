@@ -23,6 +23,9 @@ DEEDS = {
         "Write a specific 'thank you' to someone who helped you, even months ago.",
         "Check if you're registered as an organ donor. If not, take 2 minutes to sign up.",
         "Smile and make eye contact with the next stranger you pass.",
+        "Look up. Literally. The sky, clouds, stars. Awe reduces stress and increases generosity.",
+        "Put your phone away for the next conversation you have. Full attention is a radical act of kindness.",
+        "Say 'I might be wrong about this' before your next strong opinion — and mean it.",
     ],
     "5m": [
         "Write a kind, honest review for a small business that deserves it.",
@@ -30,6 +33,9 @@ DEEDS = {
         "Call your elected representative about something you care about. Calls are counted.",
         "Set up a small recurring donation to a cause you believe in.",
         "Reply to someone's creative work with something more thoughtful than a like.",
+        "Write down three specific things you're grateful for. Studies show this boosts happiness after just 10 weeks.",
+        "Check on someone who's been quiet lately. The people who stop reaching out often need connection most.",
+        "Thank a coworker for something specific they did. Only 10% of people express gratitude at work on any given day.",
     ],
     "1h": [
         "Offer to review someone's resume, portfolio, or code — and actually do it well.",
@@ -37,6 +43,9 @@ DEEDS = {
         "Cook extra food and bring it to a neighbor, shelter, or food bank.",
         "Mentor someone earlier in their career. One honest conversation changes trajectories.",
         "Participate in a local park or neighborhood cleanup.",
+        "Take an 'awe walk' — go somewhere with trees, old buildings, or open sky and pay attention to what's bigger than you.",
+        "Write a gratitude letter to someone who changed your life. Be specific about what they did and how it affected you.",
+        "Invite someone to eat with you. Shared meals are one of the oldest forms of human bonding.",
     ],
     "ongoing": [
         "Learn basic first aid and CPR — most emergencies happen around people who could help.",
@@ -44,6 +53,9 @@ DEEDS = {
         "Join a local mutual aid network. Show up consistently.",
         "Reduce food waste: plan meals, use scraps, compost what's left.",
         "Be a reliable presence for someone in your life who is struggling.",
+        "Practice steelmanning: before arguing against something, articulate the strongest version of the opposing view.",
+        "Keep a weekly gratitude journal. The research is clear — it compounds.",
+        "Practice active listening: repeat back what people say, ask follow-ups, resist the urge to pivot to your own story.",
     ],
 }
 
